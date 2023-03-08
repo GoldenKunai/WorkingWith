@@ -1,0 +1,21 @@
+red
+blue
+green
+5
+8
+4
+4
+============================
+How to Insert and Erase Elements in a Vector!!!
+This is the second spot in the Vector: 6
+This is the beginning of the Vector: 7
+After erase what is in the beginning of Vector: 6
+================================
+How to iterate through a Vector!!!!
+Using the Vector of Ints V2={6,5,1,2,3,4}
+[We are using size() to iterate through the list with i]
+6 5 1 2 3 4 
+[Iteration with itr and using built in functions in <vector>]
+(6, 5, 1, 2, 3, 4)
+V2, after the insertion of 10 at the back: 
+(6, 5, 1, 2, 3, 4, 10)
